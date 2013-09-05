@@ -5,7 +5,7 @@
  * Licensed under the MIT license.
  */
 
-(function ($) {
+(function (window, $) {
 
   'use strict';
 
@@ -40,5 +40,5 @@
     });
   };
 
-  $('body').whimsy()
-})(jQuery);
+  window.whimsy = whimsy;
+})(window, jQuery);

@@ -4,7 +4,7 @@
   "main": "src/whimsy.js",
   "ignore": [
     "**/.*",
-    "*.js*",
+    "/*.js*",
     "test"
   ],
   "devDependencies": {

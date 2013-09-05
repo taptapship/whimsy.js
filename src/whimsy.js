@@ -34,11 +34,11 @@
       element.innerHTML.replace(/(\w)\.(?!\w)/g, '$1<i class="whimsy">!</i>');
   }
 
-  $ && $.fn && $.fn.whimsy = function () {
+  $ && $.fn && ($.fn.whimsy = function () {
     return this.each(function () {
       whimsy(this);
     });
-  };
+  });
 
   window.whimsy = whimsy;
 })(window, jQuery);

@@ -4,8 +4,8 @@
   "main": "src/whimsy.js",
   "ignore": [
     "**/.*",
-    "*.js*"
-    "test",
+    "*.js*",
+    "test"
   ],
   "devDependencies": {
     "qunit": "~1.12.0"

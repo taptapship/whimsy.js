@@ -1,0 +1,33 @@
+{
+  "name": "whimsyjs",
+  "version": "0.1.0",
+  "description": "It turns out you can, indeed, calculate whimsy.",
+  "keywords": [
+    "jquery-plugin"
+  ],
+  "homepage": "https://github.com/stephenplusplus/whimsy.js",
+  "author": {
+    "name": "Stephen Sawchuk",
+    "email": "sawchuk@gmail.com",
+    "url": "https://github.com/stephenplusplus"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephenplusplus/whimsy.js.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.1.1",
+    "grunt-contrib-qunit": "~0.1.1",
+    "grunt-contrib-concat": "~0.1.2",
+    "grunt-contrib-uglify": "~0.1.1",
+    "grunt-contrib-watch": "~0.2.0",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-connect": "~0.3.0",
+    "time-grunt": "~0.1.1"
+  }
+}

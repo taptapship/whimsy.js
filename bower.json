@@ -1,0 +1,13 @@
+{
+  "name": "whimsy",
+  "version": "0.1.0",
+  "main": "src/whimsy.js",
+  "ignore": [
+    "**/.*",
+    "*.js*"
+    "test",
+  ],
+  "devDependencies": {
+    "qunit": "~1.12.0"
+  }
+}

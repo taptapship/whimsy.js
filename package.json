@@ -1,6 +1,7 @@
 {
   "name": "whimsyjs",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "private": true,
   "description": "It turns out you can, indeed, calculate whimsy.",
   "keywords": [
     "jquery-plugin"

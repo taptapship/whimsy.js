@@ -16,7 +16,10 @@
       + '    display: inline-block;'
       + '    font-weight: bold;'
       + '    cursor: ne-resize;'
+      + '    -webkit-transform: rotate(9deg);'
+      + '    -ms-transform: rotate(9deg);'
       + '    transform: rotate(9deg);'
+      + '    -webkit-transition: all .5s';
       + '    transition: all .5s;'
       + '  }'
       + '  .whimsy:hover {'

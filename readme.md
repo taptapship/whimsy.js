@@ -2,7 +2,7 @@
 
 > It turns out you can, indeed, calculate whimsy.
 
-![](http://www.gifti.me/i/oBXjOR3.gif)
+[See it in action!](http://www.gifti.me/i/oBXjOR3.gif)
 
 Not everyone has whimsy. But you can bet everyone needs it.
 
